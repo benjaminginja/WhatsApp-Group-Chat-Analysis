@@ -3,7 +3,7 @@ Cleaning and analyzing WhatsApp group chat data as well as report design in Powe
 
 # Introduction
 This project resulted from a search for a pet project (passion project) that would involve working with data that was personal and which the insights would be interesting to see. 
-This analysis is carried out to find out the total users of the group over the years 2022- 2024, the most contributing users, gender contribution, message count, chat trends, and peak time. 
+This analysis was carried out to find out the total users of the group over the years 2022- 2024, the most contributing users, gender contribution, message count, chat trends, and peak time. 
 
 # The documentation includes:
 
